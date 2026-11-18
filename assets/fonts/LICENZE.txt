@@ -1,0 +1,10 @@
+Font ospitati in locale (scaricati da Google Fonts, sottoinsieme "latin")
+
+- Inter — © The Inter Project Authors
+- Merriweather — © The Merriweather Project Authors
+- Playfair Display — © The Playfair Display Project Authors
+
+Tutti distribuiti con SIL Open Font License 1.1, che ne consente l'uso e la
+ridistribuzione, anche commerciale, sui siti web: https://openfontlicense.org
+
+Ogg (Sharp Type) non è incluso: serve una licenza web (sharptype.co/licensing).
